@@ -1,47 +1,59 @@
-# Mina Motaghinasab
+<div align="center">
 
+# Hi there, I'm Mina Motaghinasab 👋
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/m-mottaghinasab)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:m.mottaghinasab@gmail.com)
-[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/mina-motaghinasab)
+**Data Analyst | Business Analyst | Python Developer**
 
-## 👋 About Me
-
-AI Engineer and Technical Founder with years of experience building production LLM systems, agentic AI platforms, and large-scale data products.
-
-### 🚀 What I'm Doing Now
-
-- 🤖 **Founding AI Lead at [Vendoroo](https://vendoroo.ai)** - Architecting and building agentic AI systems that automate maintenance workflows in real estate, combining advanced LLM frameworks, scalable backend services, and autonomous multi-agent coordination.
-
-- 📚 **Founder of [Pytopia](https://pytopia.ai)** - A data science education platform with 20,000+ learners, creating courses and mentorship programs that help people launch careers in ML and AI.
-
-### 💼 Professional Highlights
-
-- **Dippy.ai** - Fine-tuned LLMs using LoRA and GRPO, improved engagement by 40%, and built safety systems for conversational AI
-- **Affinity.co** - Led ML initiatives including LLM-based data extraction, large-scale Spark pipelines, entity resolution, and recommendation engines
-- **AltaML** - Delivered applied ML solutions across healthcare, insurance, fundraising, and NLP
-
-I specialize in turning ambiguous ideas into real, scalable AI products, with deep expertise in LLMs, agent systems, backend architecture, and ML engineering.
-
-📫 **Reach me:** hejazizo.ali@gmail.com
-
-### 🖥 Skills
-
-- **Agentic AI & Multi-Agent Systems** (LangChain, LangGraph, AutoGen, LlamaIndex)
-- **Large Language Models (LLMs)** - Fine-tuning, LoRA, RLHF, GRPO
-- **Backend Development** (FastAPI, Django REST Framework, PostgreSQL, RabbitMQ, Celery)
-- **Machine Learning & Deep Learning** (PyTorch, Apache Spark)
-- **MLOps & Production ML Systems**
-- **Natural Language Processing**
-
-### ⚙️ Tech Stack
-
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch&color=353535) ![Bootstrap](https://img.shields.io/badge/-LangChain-05122A?style=flat-square&color=353535) ![Bootstrap](https://img.shields.io/badge/-LangGraph-05122A?style=flat-square&color=353535) ![Bootstrap](https://img.shields.io/badge/-LlamaIndex-05122A?style=flat-square&color=353535) ![Bootstrap](https://img.shields.io/badge/-AutoGen-05122A?style=flat-square&color=353535) ![Bootstrap](https://img.shields.io/badge/-FastAPI-05122A?style=flat-square&logo=FastAPI&color=353535) ![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=Django&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat-square&logo=RabbitMQ&color=353535) ![Bootstrap](https://img.shields.io/badge/-Celery-05122A?style=flat-square&logo=Celery&color=353535) ![Bootstrap](https://img.shields.io/badge/-Apache%20Spark-05122A?style=flat-square&logo=Apache-Spark&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-Kubernetes-05122A?style=flat-square&logo=Kubernetes&color=353535) ![Bootstrap](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=MongoDB&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=Pandas&color=353535) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat-square&logo=Numpy&color=353535) ![Bootstrap](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat-square&logo=Scikit-Learn&color=353535) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535)
-
-<div>
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="hejazizo" />
-</div>
-
+Passionate about turning data into actionable insights using Python, Power BI, and Excel.
 
 ---
-:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
+
+### 🛠️ Tech Stack
+
+**Programming & Tools**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
+
+**Data Science & Analysis**
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-2A6A9E?style=flat-square)
+![Business Analysis](https://img.shields.io/badge/Business%20Analysis-4A90E2?style=flat-square)
+
+**Visualization & Engineering**
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=seaborn&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF6384?style=flat-square)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=m-mottaghinasab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=m-mottaghinasab&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</div>
+
+---
+
+### 🌱 Currently Learning
+- Advanced Machine Learning & Deep Learning
+- MLOps & Productionizing ML Models
+- LLM Applications & Agentic Systems
+
+---
+
+### 📫 Connect with me
+
+- **Email**: [m.mottaghinasab@gmail.com]
+- **LinkedIn**: [www.linkedin.com/in/m-mottaghinasab]
+- **Kaggle**: []
+
+---
+
+*Last updated: May 2025*
+
+</div>
