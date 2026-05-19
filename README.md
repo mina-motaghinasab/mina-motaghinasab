@@ -34,15 +34,7 @@ Passionate about turning data into actionable insights using Python, Power BI, a
 ### 📊 GitHub Stats
 
 <div align="center">
-
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mina-motaghinasab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mina-motaghinasab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-
-</div>
-
-
-<div> <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mina-motaghinasab&" alt="mina-motaghinasab" /> </div>
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=mina-motaghinasab&" alt="mina-motaghinasab" /> </div>
 
 ---
 
