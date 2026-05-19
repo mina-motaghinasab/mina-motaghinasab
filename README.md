@@ -12,6 +12,8 @@ Passionate about turning data into actionable insights using Python, Power BI, a
 
 **Programming & Tools**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-FF6600?style=flat-square&logo=spss&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoft-powerpoint&logoColor=white)
@@ -33,14 +35,14 @@ Passionate about turning data into actionable insights using Python, Power BI, a
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=m-mottaghinasab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=m-mottaghinasab&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mina-motaghinasab&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mina-motaghinasab&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
 
 ---
 
 ### 🌱 Currently Learning
-- Advanced Machine Learning & Deep Learning
+- Advanced Machine Learning
 - MLOps & Productionizing ML Models
 - LLM Applications & Agentic Systems
 
