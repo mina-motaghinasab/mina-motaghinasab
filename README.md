@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Mina Motaghinasab 👋
+# Mina Motaghinasab
 
 **Data Analyst | Business Analyst | Python Developer**
 
