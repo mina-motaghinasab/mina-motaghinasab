@@ -41,6 +41,9 @@ Passionate about turning data into actionable insights using Python, Power BI, a
 
 </div>
 
+
+<div> <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="hejazizo" /> </div>
+
 ---
 
 ### 🌱 Currently Learning
