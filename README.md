@@ -6,6 +6,15 @@ Data professional transitioning from business/marketing analytics into data scie
 
 ---
 
+## 📂 Projects
+
+| Project | What it shows | Tools |
+|---|---|---|
+| [campaign-insights](https://github.com/mina-motaghinasab/campaign-insights) | Python package that analyses Facebook ad campaigns: KPIs (CTR, CPA, ROAS), confidence intervals and cautious budget recommendations, with 19 tests | Python, pandas, matplotlib, pytest |
+| [concert-tours-cleaning](https://github.com/mina-motaghinasab/concert-tours-cleaning) | Cleaning a web-scraped Wikipedia table: text-to-number conversion, footnote removal, consistency and outlier checks | Python, pandas, Jupyter |
+
+---
+
 ### 🎓 Education
 
 - **M.Sc. Data Science** — TU Dortmund University *(Oct 2025 – present)*
@@ -69,4 +78,4 @@ Monthly retail sales & KPI reporting for FMCG brands (Kaleh, Mihan, Pegah, and o
 ### 📫 Connect with me
 
 - **Email:** m.mottaghinasab@gmail.com
-- **LinkedIn:** [linkedin.com/in/m-mottaghinasab](https://www.linkedin.com/in/m-mottaghinasab)
+- **LinkedIn:** [linkedin.com/in/m-mottaghinasab](https://www.linkedin.com/in/m-motaghinasab)
