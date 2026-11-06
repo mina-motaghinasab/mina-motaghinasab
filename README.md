@@ -10,8 +10,10 @@ Data professional transitioning from business/marketing analytics into data scie
 
 | Project | What it shows | Tools |
 |---|---|---|
+| [superstore-profit-analysis](https://github.com/mina-motaghinasab/superstore-profit-analysis) | Retail profit analysis: shows that discounts above 20% cause most losses, with OLS models compared by cross-validation and residual diagnostics | Python, pandas, statsmodels, seaborn |
 | [campaign-insights](https://github.com/mina-motaghinasab/campaign-insights) | Python package that analyses Facebook ad campaigns: KPIs (CTR, CPA, ROAS), confidence intervals and cautious budget recommendations, with 19 tests | Python, pandas, matplotlib, pytest |
 | [concert-tours-cleaning](https://github.com/mina-motaghinasab/concert-tours-cleaning) | Cleaning a web-scraped Wikipedia table: text-to-number conversion, footnote removal, consistency and outlier checks | Python, pandas, Jupyter |
+| [california-housing-regression](https://github.com/mina-motaghinasab/california-housing-regression) | Comparing Linear Regression, Ridge and Lasso for house price prediction, with pipelines and cross-validated choice of alpha | Python, scikit-learn, pandas, matplotlib |
 
 ---
 
@@ -78,4 +80,4 @@ Monthly retail sales & KPI reporting for FMCG brands (Kaleh, Mihan, Pegah, and o
 ### 📫 Connect with me
 
 - **Email:** m.mottaghinasab@gmail.com
-- **LinkedIn:** [linkedin.com/in/m-mottaghinasab](https://www.linkedin.com/in/m-motaghinasab)
+- **LinkedIn:** [linkedin.com/in/m-motaghinasab](https://www.linkedin.com/in/m-motaghinasab)
