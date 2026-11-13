@@ -10,6 +10,7 @@ Data professional transitioning from business/marketing analytics into data scie
 
 | Project | What it shows | Tools |
 |---|---|---|
+| [rossmann-sales-analysis](https://github.com/mina-motaghinasab/rossmann-sales-analysis) | Daily sales of 1,115 Rossmann stores: panel regression for the sales difference on promotion days (about 37% higher) and a comparison of forecasting models on rolling 6-week windows | Python, pandas, statsmodels, LightGBM |
 | [superstore-profit-analysis](https://github.com/mina-motaghinasab/superstore-profit-analysis) | Retail profit analysis: shows that discounts above 20% cause most losses, with OLS models compared by cross-validation and residual diagnostics | Python, pandas, statsmodels, seaborn |
 | [campaign-insights](https://github.com/mina-motaghinasab/campaign-insights) | Python package that analyses Facebook ad campaigns: KPIs (CTR, CPA, ROAS), confidence intervals and cautious budget recommendations, with 19 tests | Python, pandas, matplotlib, pytest |
 | [concert-tours-cleaning](https://github.com/mina-motaghinasab/concert-tours-cleaning) | Cleaning a web-scraped Wikipedia table: text-to-number conversion, footnote removal, consistency and outlier checks | Python, pandas, Jupyter |
@@ -27,7 +28,7 @@ Data professional transitioning from business/marketing analytics into data scie
 
 ### 💼 Experience
 
-**Business Analyst — Atlas Dena Holding** *(2022 – 2025)*
+**Business Analyst — Atlas Dina Holding** *(2022 – 2025)*
 Sales & KPI analysis, Power BI dashboards, SQL data extraction, Python/R analysis, pricing & profitability analysis, sales forecasting.
 
 **Brand Manager (Data-Driven) — Zar Macaron** *(2019 – 2022)*
